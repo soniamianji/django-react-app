@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59902bda-f079-4810-ae11-50875233c173" name="Default Changelist" comment="" />
+    <list default="true" id="59902bda-f079-4810-ae11-50875233c173" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Leads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/templates/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XiGrMR8bbfEo0CzHnSHX9wo3eE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
