@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59902bda-f079-4810-ae11-50875233c173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Leads.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/templates/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/leads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/leads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Leads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/static/frontend/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="175" y="176" key="FileDocumentManager.FileCacheConflict" timestamp="1581584698758">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="175" y="176" key="FileDocumentManager.FileCacheConflict/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1581584698758" />
     <state x="413" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1581521750521">
       <screen x="0" y="23" width="1440" height="807" />
     </state>

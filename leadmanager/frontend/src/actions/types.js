@@ -1,0 +1,5 @@
+const GET_LEADS = "GET_LEADS";
+const DELETE_LEAD = "DELETE_LEAD";
+const ADD_LEAD = "ADD_LEAD";
+
+export { GET_LEADS, DELETE_LEAD, ADD_LEAD}
