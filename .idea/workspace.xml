@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59902bda-f079-4810-ae11-50875233c173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Alerts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/errors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/accounts/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/accounts/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadmanager/accounts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leadmanager/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/actions/leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/leads.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/actions/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/messages.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leadmanager/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/static/frontend/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/leads/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leads/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/leads/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leads/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="478" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581786545152">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="478" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.807@0.23.1440.807" timestamp="1581786545152" />
     <state x="175" y="176" key="FileDocumentManager.FileCacheConflict" timestamp="1581584698758">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
