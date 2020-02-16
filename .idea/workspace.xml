@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59902bda-f079-4810-ae11-50875233c173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/accounts/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/accounts/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/common/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/actions/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/actions/leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/leads.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/accounts/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/accounts/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/accounts/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/accounts/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Alerts.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Alerts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/src/reducers/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leadmanager/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/frontend/static/frontend/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
